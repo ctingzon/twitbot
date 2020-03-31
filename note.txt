@@ -1,0 +1,5 @@
+twitbot searches for tweets that have whatever keyword given to var query
+twitbot then finds the username with the tweet found and then replies to them whatever message given to var message
+run node app.js
+
+twitter: @caseycodes
