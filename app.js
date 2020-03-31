@@ -3,10 +3,10 @@ var TwitterPackage = require('twitter');
 // replace the words in caps with the keys that
 // we saw before on apps.twitter.com
 var secret = {
-  consumer_key: 'ctcimoajpOmhV3w47LKaH1z0G',
-  consumer_secret: '9n3AVjrzT177EYg310kS1MjguLSWucXK2nzA6ai154duczEMZ9',
-  access_token_key: '1017207123753742336-YuTvbLiBZrmPDeIrupuY6TfAHusMNM',
-  access_token_secret: '2yXRG4GGrpj6Wia1NRLm3PTnXk3AoWqYpBcu8qy0t1niC'
+  consumer_key: '**********************************',
+  consumer_secret: '**********************************',
+  access_token_key: '**********************************',
+  access_token_secret: '**********************************'
 }
  
 var Twitter = new TwitterPackage(secret);
